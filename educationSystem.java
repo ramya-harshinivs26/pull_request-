@@ -1,4 +1,4 @@
-interface orgemployee {
+interface employee {
     double calculateSalary();
     void displayDetails();
 }
